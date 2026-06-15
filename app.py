@@ -857,6 +857,27 @@ with tab_rules:
 
     st.markdown(
         """
+        ### Team selection
+
+        Each player picked two teams from each of the four pots used by FIFA to draw the 12 World Cup groups, giving each player a total of 8 selected teams.
+
+        At the end of the tournament, if multiple participants finish with the same number of points, the prize pool will be shared.
+
+        | Pot 1 | Pot 2 | Pot 3 | Pot 4 |
+        |---|---|---|---|
+        | United States | Croatia | Norway | Jordan |
+        | Mexico | Morocco | Panama | Cape Verde |
+        | Canada | Colombia | Egypt | Ghana |
+        | Spain | Uruguay | Algeria | Curacao |
+        | Argentina | Switzerland | Scotland | Haiti |
+        | France | Japan | Paraguay | New Zealand |
+        | England | Senegal | Tunisia | Bosnia & Herzegovina |
+        | Brazil | Iran | Ivory Coast | Sweden |
+        | Portugal | South Korea | Uzbekistan | Czech Republic |
+        | Netherlands | Ecuador | Qatar | Turkey |
+        | Belgium | Austria | Saudi Arabia | DR Congo |
+        | Germany | Australia | South Africa | Iraq |
+
         ### Group stage
 
         Each selected team earns points in every group-stage match.

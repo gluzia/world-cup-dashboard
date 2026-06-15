@@ -1,15 +1,15 @@
 date,time,stage,group,home_team,away_team,home_goals,away_goals
-2026-06-11,18:00,Fase de Grupos,A,Mexico,Africa do Sul,2,0
-2026-06-12,18:00,Fase de Grupos,B,Canada,Bosnia,1,1
-2026-06-12,21:00,Fase de Grupos,A,Coreia do Sul,Republica Checa,2,1
-2026-06-13,,Fase de Grupos,B,Catar,Suica,1,1
-2026-06-13,,Fase de Grupos,D,Estados Unidos,Paraguai,4,1
-2026-06-14,,Fase de Grupos,E,Alemanha,Curacao,7,1
-2026-06-14,,Fase de Grupos,D,Australia,Turquia,2,0
-2026-06-14,,Fase de Grupos,C,Brasil,Marrocos,1,1
-2026-06-14,,Fase de Grupos,C,Haiti,Escocia,0,1
-2026-06-14,,Fase de Grupos,F,Holanda,Japao,2,2
-2026-06-15,,Fase de Grupos,G,Belgica,Egito,,
-2026-06-15,,Fase de Grupos,E,Costa do Marfim,Equador,1,0
-2026-06-15,,Fase de Grupos,H,Espanha,Cabo Verde,,
-2026-06-15,,Fase de Grupos,F,Suecia,Tunisia,5,1
+2026-06-11,18:00,Group stage,A,Mexico,South Africa,2,0
+2026-06-12,18:00,Group stage,B,Canada,Bosnia,1,1
+2026-06-12,21:00,Group stage,A,South Korea,Czech Republic,2,1
+2026-06-13,,Group stage,B,Qatar,Switzerland,1,1
+2026-06-13,,Group stage,D,United States,Paraguay,4,1
+2026-06-14,,Group stage,E,Germany,Curacao,7,1
+2026-06-14,,Group stage,D,Australia,Turkey,2,0
+2026-06-14,,Group stage,C,Brazil,Morocco,1,1
+2026-06-14,,Group stage,C,Haiti,Scotland,0,1
+2026-06-14,,Group stage,F,Netherlands,Japan,2,2
+2026-06-15,,Group stage,G,Belgium,Egypt,,
+2026-06-15,,Group stage,E,Ivory Coast,Ecuador,1,0
+2026-06-15,,Group stage,H,Spain,Cape Verde,,
+2026-06-15,,Group stage,F,Sweden,Tunisia,5,1
