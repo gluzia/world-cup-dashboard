@@ -5,6 +5,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
 st.set_page_config(
     page_title="World Cup Pool Dashboard",
     page_icon="🏆",
@@ -639,6 +642,8 @@ tab_ranking, tab_update, tab_matches, tab_players, tab_teams, tab_rules, tab_fil
 
 with tab_ranking:
     st.subheader("🏅 Overall ranking")
+    last_update = datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%y %H:%M")
+    st.caption(f"Update: {last_update}")
 
     ranking_show = ranking.rename(columns={
         "position": "Position",
