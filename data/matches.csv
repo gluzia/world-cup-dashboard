@@ -9,9 +9,9 @@ date,time,stage,group,home_team,away_team,home_goals,away_goals
 2026-06-14,,Group stage,C,Brazil,Morocco,1,1
 2026-06-14,,Group stage,C,Haiti,Scotland,0,1
 2026-06-14,,Group stage,F,Netherlands,Japan,2,2
-2026-06-15,,Group stage,G,Belgium,Egypt,,
+2026-06-15,,Group stage,G,Belgium,Egypt,1,1
 2026-06-15,,Group stage,E,Ivory Coast,Ecuador,1,0
-2026-06-15,,Group stage,H,Spain,Cape Verde,,
+2026-06-15,,Group stage,H,Spain,Cape Verde,0,0
 2026-06-15,,Group stage,F,Sweden,Tunisia,5,1
 2026-06-16,,Group stage,I,France,Senegal,3,1
 2026-06-16,,Group stage,G,Iran,New Zealand,2,2
@@ -19,6 +19,13 @@ date,time,stage,group,home_team,away_team,home_goals,away_goals
 2026-06-17,,Group stage,I,Iraq,Norway,1,4
 2026-06-17,,Group stage,J,Argentina,Algeria,3,0
 2026-06-17,,Group stage,J,Austria,Jordan,3,1
-2026-06-17,,Group stage,K,Portugal,Congo,,
-2026-06-17,,Group stage,L,England,Croatia,,
+2026-06-17,,Group stage,K,Portugal,Congo,1,1
+2026-06-17,,Group stage,L,England,Croatia,4,2
+2026-06-18,,Group stage,L,Ghana,Panama,1,0
+2026-06-18,,Group stage,K,Uzbekistan,Colombia,1,3
+2026-06-18,,Group stage,A,Czech Republic,South Africa,1,1
+2026-06-18,,Group stage,B,Switzerland,Bosnia & Herzegovina,4,1
+2026-06-19,,Group stage,B,Canada,Qatar,6,0
+2026-06-19,,Group stage,A,Mexico,South Korea,1,0
+2026-06-19,,Group stage,D,United States,Australia,
 
